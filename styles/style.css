@@ -111,3 +111,35 @@ body {
 .rating {
   margin-left: 10px;
 }
+/* -------------------------------
+    Footer css start
+----------------------------------*/
+footer {
+  margin-top: 100px;
+  height: 200px;
+  background: #0a0826;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-text {
+  color: #ffffff;
+  text-align: center;
+}
+.footer-text > h4 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+.footer-text > p {
+  font-size: 14px;
+}
+.social-links {
+  margin-top: 14px;
+}
+.social-links > i {
+  margin-right: 16px;
+  font-size: 17px;
+}
+.social-links > i:hover {
+  cursor: pointer;
+}
