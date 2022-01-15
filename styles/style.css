@@ -1,0 +1,58 @@
+/* ----------------------------
+    Import file 
+-------------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+/* ----------------------------
+    Common css start
+-------------------------------*/
+body {
+  background: #ffffff;
+  font-family: "Poppins", sans-serif;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  max-width: 1300px;
+  margin: auto;
+}
+/* ----------------------------
+    Banner css start
+-------------------------------*/
+.banner {
+  display: flex;
+  padding: 50px;
+}
+.banner-title {
+  font-size: 52px;
+  line-height: 70px;
+  color: #3a3a3a;
+  margin-bottom: 16px;
+}
+.banner-text {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3a3a3a;
+  margin-bottom: 30px;
+  padding-right: 200px;
+}
+.banner-btn {
+  padding: 12px 20px;
+  background-color: #e02c6d;
+  border: none;
+  border-radius: 41px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.fa-arrow-right {
+  margin-left: 10px;
+}
+
+.banner-right img {
+  width: 440px;
+  height: 414px;
+}
