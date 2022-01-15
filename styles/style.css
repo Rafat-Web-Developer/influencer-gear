@@ -162,9 +162,9 @@ nav > ul > li:hover > a {
   color: #fb8200;
 }
 .collection-text {
-  width: 60%;
+  width: 90%;
   color: #787885;
-  font-size: 14px;
+  font-size: 12px;
   margin-top: 10px;
 }
 .rating {
